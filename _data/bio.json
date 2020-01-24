@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Don-Maddock",
+        "url": "https://www.linkedin.com/in/don-maddock-ab872519b/"
       }
     ]
   },
@@ -80,6 +80,7 @@
     {
       "institution": "Kauai Community College, Lihue, HI",
       "area": "General Education",
+      "studyType": "A.A.",
       "startDate": "2014-09-01",
       "endDate": "2017-05-1",
       "gpa": "",
@@ -94,7 +95,11 @@
       "website": "",
       "startDate": "2019-03-15",
       "endDate": "Present",
-      "summary": "Attending to needs of golf course players"
+      "summary": "",
+      "highlights": [
+        "Attending to the needs of golfers",
+        "Greeting regular club members as well as foreign tourist"
+      ]
     },
     {
       "company": "Kapaa High School",
