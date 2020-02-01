@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:images/ardu.png
+image: images/ardu.png
 title: Auduino Text Filler
 permalink: projects/Auduino
 # All dates must be YYYY-MM-DD format!
