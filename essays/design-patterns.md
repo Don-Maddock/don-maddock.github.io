@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Title
+title: Find and Replay
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-30
 labels:
